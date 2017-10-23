@@ -13,5 +13,6 @@ nos_init "$@"
 
 # setup environment
 setup_env
+install_pip
 
 exit 0
